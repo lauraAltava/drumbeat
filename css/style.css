@@ -1,0 +1,225 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+header, footer, aside, nav, article {
+	display: block;
+}
+
+#contenido{
+  width: 900px;
+  font-size: 11px;
+    
+}
+header{
+    margin-top: 20px;
+}
+
+#logo{
+    float: left;
+   
+}
+
+#titulo{
+    clear: both;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(2, 104, 122);
+}
+nav ul {
+	list-style: none;
+}
+
+nav ul li {
+	float: left;
+    
+    padding-left: 33px;
+}
+
+#login{
+    float: right;
+    margin-top: 22px;
+}
+
+#menu1{
+    float: left;
+    margin-top: 22px;
+    font-size: 18px;
+    font-weight: bold;
+ 
+}
+
+#menu2{
+    float: left;
+    margin-top: 22px;
+    font-size: 10px;
+ 
+}
+#language{
+    margin-top: 18px;
+   
+}
+
+#contenedor{
+    margin-top: 65px;
+   
+        display: table;
+    
+}
+#main-content{
+    display: table-cell;
+    width: 620px;    
+}
+
+#parrafos{
+    padding-right: 60px;
+    font-size: 11px;
+}
+
+aside{
+    
+    width: 250px;
+}
+
+#program{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: rgb(13, 154, 179);
+    font-size: 30px;
+}
+
+h2,h3,h4{
+    color: rgb(13, 154, 179);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+h5{
+    margin: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#caja1{
+    background-color: rgb(230, 156, 156);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+
+}
+#caja2{
+    background-color: rgb(255, 253, 137);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja3{
+    background-color: rgb(230, 156, 156);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja4{
+    background-color: rgb(255, 253, 137);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja5{
+    background-color: rgb(230, 156, 156);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja6{
+    background-color: rgb(135, 232, 118);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja7{
+    background-color: rgb(122, 226, 239);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja8{
+    background-color: rgb(135, 232, 118);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja9{
+    background-color: rgb(122, 226, 239);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#caja10{
+    background-color: rgb(135, 232, 118);
+     margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#columna1{
+    float: left;
+    width:250px;
+    margin-right: 25px;
+    font-size: 11px;
+  
+}
+#columna2{
+    float: left;
+    width: 250px;
+    border-radius: 5px;
+    margin-left: 25px;
+    font-size: 11px;
+}
+#bajocajas{
+    clear:both;
+}
+
+#casitas{
+    float: right;
+}
+
+#fondoRegister{
+    background-color: rgb(39, 172, 216);
+    padding: 15px;
+}
+#register{
+    background-color: rgb(76, 196, 76);
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+#lista1{
+    background-color: rgb(227, 216, 216);
+    border-radius: 15px;
+    padding-left: 50px;
+    margin-top: 15px;
+    
+}
+#li1{
+    list-style-image: url(img/benefit_p2pu.png);
+    margin-top: 0px;
+    
+}
+#li2{
+    list-style-image: url(img/benefit_creds.png);
+}
+#li3{
+    list-style-image: url(img/benefit_hackbus.png);
+}
+#li4{
+    list-style-image: url(img/benefit_teaching.png);
+}
+#li5{
+    list-style-image: url(img/benefit_hack.png);
+}
+#li6{
+    list-style-image: url(img/benefit_wikipedia.png);
+}
